@@ -7,7 +7,9 @@ This is a template for my frontend projects.
 ### Components
 Pnpm: https://pnpm.io/
 - JS package manager.
+
 Vite: https://vitejs.dev/
 - Dev server, js frontend builder
+
 MUI: https://mui.com/material-ui/getting-started/overview/
 - UI library
